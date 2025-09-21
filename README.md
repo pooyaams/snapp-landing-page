@@ -1,6 +1,6 @@
 # Snap Landing Page
 
-A **beautiful and fully responsive landing page** for the Snap project, built with **HTML, CSS, and Bootstrap**.
+**A beautiful and fully responsive landing page** for the Snap project, built with **HTML, CSS, and Bootstrap**.
 
 ---
 
@@ -16,13 +16,13 @@ A **beautiful and fully responsive landing page** for the Snap project, built wi
 
 ## 🚀 Demo
 
-Check out the live demo: [View Demo](YOUR_DEMO_LINK_HERE)
+Check out the live demo: [View Demo](https://pooyaams.github.io/snapp-landing-page/)
 
 ---
 
 ## ⚡ Preview
 
-![Landing Page Preview](YOUR_IMAGE_LINK_HERE)
+![Landing Page Preview](https://github.com/pooyaams/snapp-landing-page/blob/main/Screenshot%20(45).png?raw=true)
 
 ---
 
